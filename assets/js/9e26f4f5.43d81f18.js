@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeazblog=self.webpackChunkeazblog||[]).push([[933],{1339:function(l){l.exports=JSON.parse('{"allTagsPath":"/eazblog/blog/tags","slug":"/eazblog/blog/tags/hello","name":"hello","count":2,"permalink":"/eazblog/blog/tags/hello"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkeazblog=self.webpackChunkeazblog||[]).push([[297],{9511:function(e){e.exports=JSON.parse('{"permalink":"/eazblog/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
